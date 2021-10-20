@@ -45,7 +45,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=desmondsanctity&theme=dark" alt="desmondsanctity" /></p>
 
 
-### Blogs posts
+### Blog Posts (Hashnode Blog)
 <!-- BLOG-POST-LIST:START -->
 - [JavaScript Best Practices - Code Like a Pro (Pt. 1)](https://dexcodes.hashnode.dev/javascript-best-practices-pt-1)
 - [Hoisting in JavaScript Explained.](https://dexcodes.hashnode.dev/hoisting-in-javascript-explained)
