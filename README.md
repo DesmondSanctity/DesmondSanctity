@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/desmondcutest" target="blank"><img src="https://img.shields.io/twitter/follow/desmondcutest?logo=twitter&style=for-the-badge" alt="desmondcutest" /></a> </p>
 
-- 🔭 I’m currently working on **Automated_Applications_On_Cloud** @ Huawei Technologies
+- 🔭 I’m currently working on **Automated Applications On Cloud** @ Huawei Technologies
 
 - 🌱 I’m currently learning **Solidity, Web3 and other blockchain tecnologies**
 
