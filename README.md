@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Desmond Obisi</h1>
-<h4 align="center">I am a software developer that loves building next gen digital solutions on the web. I have been building for the web these past three years with technologies like JavaScript (React JS, Gatsby, Express and Node JS), SQL, MongoDB, GraphQL and Cloud Services to create innovative solutions. I currently work with Huawei as an automation software engineer where I lead a team of engineers building and maintaining applications for automating process and optimizing work deliverability.</h4>
+<h6 align="center">I am a software developer that loves building next gen digital solutions on the web. I have been building for the web these past three years with technologies like JavaScript (React JS, Gatsby, Express and Node JS), SQL, MongoDB, GraphQL and Cloud Services to create innovative solutions. I currently work with Huawei as an automation software engineer where I lead a team of engineers building and maintaining applications for automating process and optimizing work deliverability.</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desmondsanctity&label=Profile%20views&color=0e75b6&style=plastic" alt="desmondsanctity" /> </p>
 
@@ -11,15 +11,15 @@
 
 - 🌱 I’m currently learning **Solidity, Web3 and other blockchain tecnologies**
 
-- 👨‍💻 All of my projects are available at [GitHub](github.com/DesmondSanctity)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/DesmondSanctity)
 
-- 📝 I regularly write articles on [Hashnode](hashnode.com/@learn-with-dex)
+- 📝 I regularly write articles on [Hashnode](https://hashnode.com/@learn-with-dex)
 
 - 💬 Ask me about **JavaScript, React, Laravel, Node, Typescript**
 
 - 📫 How to reach me **desmondcutest@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn](linkedin.com/in/desmond-obisi-253ab7161/)
+- 📄 Know about my experiences [LinkedIn](https://linkedin.com/in/desmond-obisi-253ab7161/)
 
 - ⚡ Fun fact **I spend more time with my computer than anything else**
 
