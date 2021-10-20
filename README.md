@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Automated Applications On Cloud** @ Huawei Technologies
 
-- 🌱 I’m currently learning **Solidity, Web3 and other blockchain tecnologies**
+- 🌱 I’m currently learning **Solidity, Web3 and other blockchain technologies**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/DesmondSanctity)
 
