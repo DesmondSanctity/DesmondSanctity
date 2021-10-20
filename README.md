@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Desmond Obisi</h1>
-<h3 align="center">An ardent learner and a software engineer building for the web with JavaScript.</h3>
+<h3 align="center">Desmond is a software developer that loves building next gen digital solutions on the web. I have been building for the web these past three years with technologies like JavaScript (React JS, Gatsby, Express and Node JS), SQL, MongoDB, GraphQL and Cloud Services like AWS to create innovative solutions. I currently work with Huawei as an automation software engineer where I lead a team of engineers building and maintaining applications for automating process and optimizing work deliverability.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desmondsanctity&label=Profile%20views&color=0e75b6&style=plastic" alt="desmondsanctity" /> </p>
 
@@ -23,6 +23,10 @@
 
 - ⚡ Fun fact **I spend more time with my computer than anything else**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/desmondcutest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="desmondcutest" height="30" width="40" /></a>
@@ -31,6 +35,7 @@
 <a href="https://fb.com/desmond.obisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="desmond.obisi" height="30" width="40" /></a>
 <a href="https://instagram.com/desmond_obisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="desmond_obisi" height="30" width="40" /></a>
 <a href="https://medium.com/@desmondcutest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@desmondcutest" height="30" width="40" /></a>
+<a href="/https://dexcodes.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dexcodes.hashnode.dev/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,9 +46,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=desmondsanctity&show_icons=true&theme=dracula&locale=en" alt="desmondsanctity" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=desmondsanctity&theme=dark" alt="desmondsanctity" /></p>
-
-
-# Latest Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
