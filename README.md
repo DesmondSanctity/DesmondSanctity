@@ -47,6 +47,6 @@
 
 ### Blog Posts (Hashnode Blog)
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Best Practices - Code Like a Pro (Pt. 1)](https://dexcodes.hashnode.dev/javascript-best-practices-pt-1)
+- [JavaScript Best Practices - Code Like a Pro &lpar;Pt. 1&rpar;](https://dexcodes.hashnode.dev/javascript-best-practices-pt-1)
 - [Hoisting in JavaScript Explained.](https://dexcodes.hashnode.dev/hoisting-in-javascript-explained)
 <!-- BLOG-POST-LIST:END -->
