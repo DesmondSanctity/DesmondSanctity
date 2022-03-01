@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=desmondsanctity" alt="desmondsanctity" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/0X_anon_" target="blank"><img src="https://img.shields.io/twitter/follow/desmondcutest?logo=twitter&style=for-the-badge" alt="desmondcutest" /></a> </p>
+<p align="left"> <a href="https://twitter.com/0X_anon_" target="blank"><img src="https://img.shields.io/twitter/follow/0X_anon_?logo=twitter&style=for-the-badge" alt="0X_anon_" /></a> </p>
 
 - 🔭 I’m currently working on **Automated Applications On Cloud** @ Huawei Technologies
 
