@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Desmond Obisi</h1>
-<h6 align="center">I am a software developer that loves building next gen digital solutions on the web. I have been building for the web these past three years with technologies like JavaScript (React JS, Gatsby, Express and Node JS), SQL, MongoDB, GraphQL and Cloud Services to create innovative solutions. I currently work with Huawei as an automation software engineer where I lead a team of engineers building and maintaining applications for automating process and optimizing work deliverability.</h6>
+<h6 align="center">I am a software engineer currently building in the blockchain ecosystem. I'm an open source contributor and technical writer whose vision is to build great products and makes it easy for the world to use. If I'm not building, you'll see me speaking and engaging communities...</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desmondsanctity&label=Profile%20views&color=0e75b6&style=plastic" alt="desmondsanctity" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/0X_anon_" target="blank"><img src="https://img.shields.io/twitter/follow/0X_anon_?logo=twitter&style=for-the-badge" alt="0X_anon_" /></a> </p>
 
-- 🔭 I’m currently working on **Automated Applications On Cloud** @ Huawei Technologies
+- 🔭 I’m currently working on **Blockchain Integration** at [Cherry Network](https://www.cherry.network/)
 
 - 🌱 I’m currently learning **Substrate, Rust, Web3 and other blockchain technologies**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@learn-with-dex)
 
-- 💬 Ask me about **JavaScript, React, Laravel, Node, Typescript**
+- 💬 Ask me about **JavaScript, React, Laravel, Node, Typescript, Rust and Blockchains**
 
 - 📫 How to reach me **desmondcutest@gmail.com**
 
