@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/DesmondSanctity)
 
-- 📝 I regularly write articles on [Hashnode](https://hashnode.com/@learn-with-dex)
+- 📝 I regularly write articles on [Hashnode](https://dexcodes.hashnode.dev/) and [Dev.to](https://dev.to/desmondsanctity)
 
 - 💬 Ask me about **JavaScript, React, Laravel, Node, Typescript, Rust and Blockchains**
 
