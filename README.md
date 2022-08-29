@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/0X_anon_" target="blank"><img src="https://img.shields.io/twitter/follow/0X_anon_?logo=twitter&style=for-the-badge" alt="0X_anon_" /></a> </p>
 
-- 🔭 I’m currently working on **Blockchain Integration** at [Cherry Network](https://www.cherry.network/)
+- 🔭 I’m currently working on **Fullstack Integration** at [Cherry Network](https://www.cherry.network/)
 
-- 🌱 I’m currently learning **Substrate, Rust, Web3 and other blockchain technologies**
+- 🌱 I’m currently learning **Substrate, Rust, WebAssembly and other blockchain technologies**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/DesmondSanctity)
 
 - 📝 I regularly write articles on [Hashnode](https://dexcodes.hashnode.dev/) and [Dev.to](https://dev.to/desmondsanctity)
 
-- 💬 Ask me about **JavaScript, React, Laravel, Node, Typescript, Rust and Blockchains**
+- 💬 Ask me about **JavaScript, React, WebAssembly, Node, Typescript, Rust and Blockchains**
 
 - 📫 How to reach me **desmondcutest@gmail.com**
 
