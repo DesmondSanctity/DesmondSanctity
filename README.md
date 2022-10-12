@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/0X_anon_" target="blank"><img src="https://img.shields.io/twitter/follow/0X_anon_?logo=twitter&style=for-the-badge" alt="0X_anon_" /></a> </p>
 
-- 🔭 I’m currently open to join a team as a **Senior Frontend Engineer / Blockcahin Engineer**
+- 🔭 I’m currently open to join a team as a **Senior Frontend Engineer / Blockcahin Engineer / Software QA Engineer**
 
 - 🌱 I’m currently learning **Substrate, Rust, Go, WebAssembly and other blockchain technologies**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [Hashnode](https://dexcodes.hashnode.dev/) and [Dev.to](https://dev.to/desmondsanctity)
 
-- 💬 Ask me about **JavaScript, React, WebAssembly, Node, Typescript, Rust and Blockchains**
+- 💬 Ask me about **JavaScript, React, WebAssembly, Node, Typescript, Rust, QA and Blockchains**
 
 - 📫 How to reach me **desmond.obisi.g20@gmail.com**
 
