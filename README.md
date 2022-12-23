@@ -47,10 +47,6 @@
 
 ### Blog Posts (Technical Articles)
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Yourself for Success in DevRel ~ A Beginners Guide](https://dev.to/desmondsanctity/setting-up-yourself-for-success-in-devrel-a-beginners-guide-2n5e)
-- [Build a Jamstack Blog with Xata and Cloudinary](https://dev.to/hackmamba/build-a-jamstack-blog-with-xata-and-cloudinary-655)
-- [Demystifying Consensus Mechanisms in Blockchains](https://dev.to/desmondsanctity/demystifying-consensus-mechanisms-in-blockchains-161)
-- [Web 3.0 - The Stack (L0/L1 Networks)](https://dev.to/desmondsanctity/web-30-the-stack-l0l1-newtworks-2069)
 - [JavaScript Best Practices - Code Like a Pro &lpar;Pt. 2&rpar;](https://dexcodes.hashnode.dev/javascript-best-practices-code-like-a-pro-pt-2)
 - [JavaScript Best Practices - Code Like a Pro &lpar;Pt. 1&rpar;](https://dexcodes.hashnode.dev/javascript-best-practices-pt-1)
 - [Hoisting in JavaScript Explained.](https://dexcodes.hashnode.dev/hoisting-in-javascript-explained)
