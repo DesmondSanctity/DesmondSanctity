@@ -45,7 +45,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=desmondsanctity&theme=dark" alt="desmondsanctity" /></p>
 
 
-### Blog Posts (Hashnode Blog)
+### Blog Posts (Technical Articles)
 <!-- BLOG-POST-LIST:START -->
 - [Setting Up Yourself for Success in DevRel ~ A Beginners Guide](https://dev.to/desmondsanctity/setting-up-yourself-for-success-in-devrel-a-beginners-guide-2n5e)
 - [Build a Jamstack Blog with Xata and Cloudinary](https://dev.to/hackmamba/build-a-jamstack-blog-with-xata-and-cloudinary-655)
