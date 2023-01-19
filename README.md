@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Desmond Obisi</h1>
-<h6 align="center">I am a software engineer currently building web products with over four years experience. I'm an open source contributor and technical writer whose vision is to build great products and makes it easy for the world to use. I have experience in tech stack like JavaScript, Typescript, Node. js, Rust, WebAssembly, React JS and SQL/NoSQL databases. If I'm not building, you'll see me speaking and engaging communities.</h6>
+<h6 align="center">I am a software engineer currently building web products with over four years experience. I'm an open source contributor and technical writer whose vision is to build great products and makes it easy for the world to use. I have experience in tech stack like JavaScript, Typescript, React, Node.js and SQL/NoSQL databases. I'm interested in Rust, WebAssembly, Golang and blockchain technologies. If I'm not building, you'll see me speaking and engaging communities.</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desmondsanctity&label=Profile%20views&color=0e75b6&style=plastic" alt="desmondsanctity" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/0X_anon_" target="blank"><img src="https://img.shields.io/twitter/follow/0X_anon_?logo=twitter&style=for-the-badge" alt="0X_anon_" /></a> </p>
 
-- 🔭 I’m currently open to join a team as a **Senior Frontend Engineer / Blockchain Engineer / DX Engineer**
+- 🔭 I’m currently open to join a team as a **Frontend Engineer / Blockchain Engineer / DX Engineer**
 
 - 🌱 I’m currently learning **Substrate, Rust, Go, WebAssembly and other blockchain technologies**
 
