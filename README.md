@@ -44,6 +44,7 @@
 
 ### Blog Posts (Technical Articles)
 <!-- BLOG-POST-LIST:START -->
+- [Account Abstraction in Web3](https://dev.to/desmondsanctity/account-abstraction-in-web3-mce)
 - [Setting Up Yourself for Success in DevRel ~ A Beginners Guide](https://dev.to/desmondsanctity/setting-up-yourself-for-success-in-devrel-a-beginners-guide-2n5e)
 - [Build a Jamstack Blog with Xata and Cloudinary](https://dev.to/hackmamba/build-a-jamstack-blog-with-xata-and-cloudinary-655)
 - [Web 3.0 - The Stack &lpar;L0/L1 Networks&rpar;](https://dev.to/desmondsanctity/web-30-the-stack-l0l1-newtworks-2069)
