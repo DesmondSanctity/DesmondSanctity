@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/0X_anon_" target="blank"><img src="https://img.shields.io/twitter/follow/0X_anon_?logo=twitter&style=for-the-badge" alt="0X_anon_" /></a> </p>
 
-- 🔭 I’m currently open to job roles as **Frontend Engineer / Blockchain Engineer / DX Engineer**
+- 🔭 I’m open to job roles as **Frontend Engineer / Blockchain Engineer / DX Engineer**
 
 - 🌱 I’m currently learning **Substrate, Rust, Go, WebAssembly and other blockchain technologies**
 
