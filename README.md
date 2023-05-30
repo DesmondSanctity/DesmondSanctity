@@ -44,6 +44,7 @@
 
 ### Blog Posts (Technical Articles)
 <!-- BLOG-POST-LIST:START -->
+- [Implement OTP Verification using Redis and Node.js](https://dev.to/desmondsanctity/implement-otp-verification-using-redis-and-nodejs-572c)
 - [Setting up Node.js Email Server with Nodemailer and Mailtrap](https://dev.to/desmondsanctity/setting-up-nodejs-email-server-with-nodemailer-and-mailtrap-404)
 - [Documenting Node.js API using Swagger](https://dev.to/desmondsanctity/documenting-nodejs-api-using-swagger-4klp)
 - [Account Abstraction in Ethereum Blockchain](https://dev.to/desmondsanctity/account-abstraction-in-web3-mce)
