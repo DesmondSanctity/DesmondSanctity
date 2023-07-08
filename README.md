@@ -9,7 +9,7 @@
 
 - 🔭 I’m open to job roles as **Software Engineer / Blockchain Engineer / Developer Relations Engineer**
 
-- 🌱 I’m currently learning **Substrate, Rust, Go, WebAssembly and other blockchain technologies**
+- 🌱 I’m currently learning ** Protocol Engineering, ML Engineering, Substrate, Rust, Go, WebAssembly and other blockchain technologies**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/DesmondSanctity)
 
