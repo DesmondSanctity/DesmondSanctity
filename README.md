@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [Hashnode](https://dexcodes.hashnode.dev/) and [Dev.to](https://dev.to/desmondsanctity)
 
-- 💬 Ask me about **JavaScript, React, WebAssembly, Node, Typescript, Rust, QA and Blockchains**
+- 💬 Ask me about **Web Engineering, Technical Writing, Developer Relations and Blockchain Technology**
 
 - 📫 How to reach me **desmond.obisi.g20@gmail.com**
 
