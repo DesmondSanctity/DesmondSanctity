@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Desmond Obisi</h1>
-<h5 align="center">I am a software engineer and developer advocate/experience engineer building web products with over five years experience. I'm an open source contributor and technical writer whose vision is to build great products and makes it easy for the world to use. If I'm not building, you'll see me speaking and engaging communities.</h5>
+<h5 align="center">I am a software engineer building web products with over five years of experience. I'm an open-source contributor and technical writer whose vision is to build great products and makes them easy for the world to use. I am interested in UX, performance, and code interoperability. I am looking to work on things like blockchain, AI/ML, Cloud Native, and research. You'll see me speaking and engaging communities if I'm not building products.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desmondsanctity&label=Profile%20views&color=0e75b6&style=plastic" alt="desmondsanctity" /> </p>
 
