@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/DesmondSanctity)
 
-- All my talks and workshop presentations are on [SpeakerDeck](https://speakerdeck.com/desmondsanctity)
+- 🎤 All my talks and workshop presentations are on [SpeakerDeck](https://speakerdeck.com/desmondsanctity)
 
 - 📝 I regularly write articles on [Hashnode](https://dexcodes.hashnode.dev/) and [Dev.to](https://dev.to/desmondsanctity)
 
