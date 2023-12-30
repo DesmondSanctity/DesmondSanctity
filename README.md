@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/0X_anon_" target="blank"><img src="https://img.shields.io/twitter/follow/0X_anon_?logo=twitter&style=for-the-badge" alt="0X_anon_" /></a> </p>
 
-- 🔭 I’m open to job roles as **Software Engineer / Blockchain Engineer / Developer Relations Engineer**
-
 - 🌱 I’m currently learning **Protocol Engineering, AI/ML Engineering, Rust, Go, WebAssembly, and Cloud Native Technologies**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/DesmondSanctity)
