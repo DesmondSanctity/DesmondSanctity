@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Protocol Engineering, AI/ML Engineering, Rust, Go, WebAssembly, and Cloud Native Technologies**
 
-- ➿ I contribute to CHAOSS, Flanksource, Ansible and Ambassador Labs OSS Projects
+- ➿ I contribute to Open Source at CHAOSS, Flanksource, Ansible and Ambassador Labs
   
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/DesmondSanctity)
 
