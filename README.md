@@ -15,7 +15,7 @@
 
 - 🎤 All my talks and workshop presentations are on [SpeakerDeck](https://speakerdeck.com/desmondsanctity)
 
-- 📝 I write technical articles on [Hashnode](https://dexcodes.hashnode.dev/) and [Dev.to](https://dev.to/desmondsanctity)
+- 📝 I write technical articles on [Twilio](https://www.twilio.com/en-us/blog/authors/author.dobisi), [Hashnode](https://dexcodes.hashnode.dev/) and [Dev.to](https://dev.to/desmondsanctity)
 
 - 💬 Ask me about **OSS, Web Engineering, Technical Writing, Developer Relations and Blockchain Technology**
 
