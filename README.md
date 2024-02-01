@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/0X_anon_" target="blank"><img src="https://img.shields.io/twitter/follow/0X_anon_?logo=twitter&style=for-the-badge" alt="0X_anon_" /></a> </p>
 
-- 🌱 I’m currently learning **Protocol Engineering, AI/ML Engineering, Rust, Go, WebAssembly, and Cloud Native Technologies**
+- 🌱 I’m currently learning **Protocol Engineering, AI/ML Engineering, Rust, Golang, WebAssembly, and Cloud Native Technologies**
 
 - ➿ I contribute to open source projects like CHAOSS, Flanksource, Ansible, and Ambassador Labs
   
