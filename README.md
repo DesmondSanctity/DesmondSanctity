@@ -1,5 +1,5 @@
 <h1 align="center">Desmond here 👋</h1>
-<h5 align="center">I am a software engineer building web products with over five years of experience. I'm an open source contributor and technical writer whose vision is to build great products and make them easy for the world to use. I am interested in UX, performance, and code interoperability. I want to work on Blockchain, AI/ML, Cloud Native, and Research. You'll see me speaking and engaging communities if I'm not building products.</h5>
+<h5 align="center">I am a software engineer building web products with over five years of experience. I'm an open-source contributor and technical writer whose vision is to build great products and make them easy for the world to use. I am interested in UX, performance, and code interoperability. I want to work on Blockchain, AI/ML, Cloud Native, and Research. You'll see me speaking and engaging communities if I'm not building products.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desmondsanctity&label=Profile%20views&color=0e75b6&style=plastic" alt="desmondsanctity" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Protocol Engineering, AI/ML Engineering, Rust, Golang, WebAssembly, and Cloud Native Technologies**
 
-- ➿ I contribute to open source projects like CHAOSS, Flanksource, Ansible, and Ambassador Labs
+- ➿ I contribute to open-source projects like CHAOSS, Flanksource, Ansible, and Ambassador Labs
   
-- 👨‍💻 All of my personal projects are available at [GitHub](https://github.com/DesmondSanctity)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/DesmondSanctity)
 
 - 🎤 All my talks and workshop presentations are on [SpeakerDeck](https://speakerdeck.com/desmondsanctity)
 
