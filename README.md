@@ -46,6 +46,7 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Faster Postgres Queries with Cloudflare Hyperdrive and Neon](https://dev.to/hackmamba/faster-postgres-queries-with-cloudflare-hyperdrive-and-neon-4200)
 - [Implement OTP Verification using Redis and Node.js](https://dev.to/desmondsanctity/implement-otp-verification-using-redis-and-nodejs-572c)
 - [Setting up Node.js Email Server with Nodemailer and Mailtrap](https://dev.to/desmondsanctity/setting-up-nodejs-email-server-with-nodemailer-and-mailtrap-404)
 - [Documenting Node.js API using Swagger](https://dev.to/desmondsanctity/documenting-nodejs-api-using-swagger-4klp)
