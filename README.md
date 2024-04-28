@@ -17,7 +17,7 @@
 
 - 📝 I write technical articles on [Twilio](https://www.twilio.com/en-us/blog/authors/author.dobisi), [Hashnode](https://dexcodes.hashnode.dev/) and [Dev.to](https://dev.to/desmondsanctity)
 
-- 💬 Ask me about **OSS, Web Engineering, Technical Writing, Developer Relations and Blockchain Technology**
+- 💬 Ask me about **OSS, Web Engineering, Technical Writing, Developer Experience and Blockchain Technology**
 
 - 📫 How to reach me **desmond.obisi.g20@gmail.com**
 
