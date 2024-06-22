@@ -46,6 +46,7 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI-powered market analysis for currency pairs with Hono.js, Cloudflare Workers and Twilio](https://dev.to/desmondsanctity/ai-powered-market-analysis-for-currency-pairs-with-honojs-cloudflare-workers-and-twilio-5edo)
 - [Faster Postgres Queries with Cloudflare Hyperdrive and Neon](https://dev.to/hackmamba/faster-postgres-queries-with-cloudflare-hyperdrive-and-neon-4200)
 - [Implement OTP Verification using Redis and Node.js](https://dev.to/desmondsanctity/implement-otp-verification-using-redis-and-nodejs-572c)
 - [Setting up Node.js Email Server with Nodemailer and Mailtrap](https://dev.to/desmondsanctity/setting-up-nodejs-email-server-with-nodemailer-and-mailtrap-404)
@@ -55,5 +56,4 @@
 - [Build a Jamstack Blog with Xata and Cloudinary](https://dev.to/hackmamba/build-a-jamstack-blog-with-xata-and-cloudinary-655)
 - [Web 3.0 - The Stack &lpar;L0/L1 Networks&rpar;](https://dev.to/desmondsanctity/web-30-the-stack-l0l1-newtworks-2069)
 - [Demystifying Consensus Mechanisms in Blockchains](https://dev.to/desmondsanctity/demystifying-consensus-mechanisms-in-blockchains-161)
-- [Web 3.0 - The Stack &lpar;Intro&rpar;](https://dev.to/desmondsanctity/web-30-the-stack-intro-33bj)
 <!-- BLOG-POST-LIST:END -->
