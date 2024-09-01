@@ -46,6 +46,7 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fullstack Serverless Starter with Hono.js, Cloudflare Workers, and Neon Postgres](https://dev.to/desmondsanctity/fullstack-serverless-starter-with-honojs-cloudflare-workers-and-neon-postgres-2pgj)
 - [AI-powered market analysis for currency pairs with Hono.js, Cloudflare Workers and Twilio](https://dev.to/desmondsanctity/ai-powered-market-analysis-for-currency-pairs-with-honojs-cloudflare-workers-and-twilio-5edo)
 - [Faster Postgres Queries with Cloudflare Hyperdrive and Neon](https://dev.to/hackmamba/faster-postgres-queries-with-cloudflare-hyperdrive-and-neon-4200)
 - [Implement OTP Verification using Redis and Node.js](https://dev.to/desmondsanctity/implement-otp-verification-using-redis-and-nodejs-572c)
@@ -55,5 +56,4 @@
 - [Setting Up Yourself for Success in DevRel ~ A Beginners Guide](https://dev.to/desmondsanctity/setting-up-yourself-for-success-in-devrel-a-beginners-guide-2n5e)
 - [Build a Jamstack Blog with Xata and Cloudinary](https://dev.to/hackmamba/build-a-jamstack-blog-with-xata-and-cloudinary-655)
 - [Web 3.0 - The Stack &lpar;L0/L1 Networks&rpar;](https://dev.to/desmondsanctity/web-30-the-stack-l0l1-newtworks-2069)
-- [Demystifying Consensus Mechanisms in Blockchains](https://dev.to/desmondsanctity/demystifying-consensus-mechanisms-in-blockchains-161)
 <!-- BLOG-POST-LIST:END -->
