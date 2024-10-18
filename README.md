@@ -44,7 +44,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=desmondsanctity&theme=dark" alt="desmondsanctity" /></p>
 
 
-### Blog Posts
+### Technical Articles
 <!-- BLOG-POST-LIST:START -->
 - [Fullstack Serverless Starter with Hono.js, Cloudflare Workers, and Neon Postgres](https://dev.to/desmondsanctity/fullstack-serverless-starter-with-honojs-cloudflare-workers-and-neon-postgres-2pgj)
 - [AI-powered market analysis for currency pairs with Hono.js, Cloudflare Workers and Twilio](https://dev.to/desmondsanctity/ai-powered-market-analysis-for-currency-pairs-with-honojs-cloudflare-workers-and-twilio-5edo)
