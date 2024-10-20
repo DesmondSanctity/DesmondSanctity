@@ -1,5 +1,5 @@
 <h1 align="center">Hello, Desmond here 👋</h1>
-<h5 align="center">I am a software engineer building web products with over five years of experience. I am an open-source contributor and a technical writer whose vision is to build great products and make them easy for the world to use. I am interested in tooling, UX, performance, and code interoperability. I want to work on Blockchain, AI/ML, Cloud Native, and Research. You will see me speaking and engaging communities if I am not building products.</h5>
+<h5 align="center">I am a software engineer with over five years of experience building impactful web products. As an open-source contributor and technical writer, I am dedicated to creating seamless user experiences, optimizing performance, and ensuring interoperability across systems. My interests span Blockchain, AI/ML, and Cloud Native technologies, and I am actively engaged in community building through speaking and technical advocacy.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desmondsanctity&label=Profile%20views&color=0e75b6&style=plastic" alt="desmondsanctity" /> </p>
 
