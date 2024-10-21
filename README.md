@@ -1,5 +1,5 @@
 <h1 align="center">Hello, Desmond here 👋</h1>
-<h5 align="center">I am a software engineer with over five years of experience building impactful web products. As an open-source contributor and technical writer, I am dedicated to creating seamless user experiences, optimizing performance, and ensuring interoperability across systems. My interests span Blockchain, AI/ML, and Cloud Native technologies, and I am actively engaged in community building through speaking and technical advocacy.</h5>
+<h5 align="center">I am a software engineer with over five years of experience building impactful web products. As an open-source contributor and technical writer, I create seamless user experiences, optimize performance, and ensure interoperability across systems. My interests span across Blockchain, AI/ML, and Cloud Native technologies, and I am actively engaged in community building through speaking and technical advocacy.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desmondsanctity&label=Profile%20views&color=0e75b6&style=plastic" alt="desmondsanctity" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **AI/ML Engineering, Rust, Golang, and Cloud Native Technologies**
 
-- ➿ I contribute to open-source projects like CHAOSS, Flanksource, Ansible, and Ambassador Labs
+- ➿ I contribute to open-source projects at CHAOSS, Flanksource, Ansible, and Ambassador Labs
   
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/DesmondSanctity)
 
 - 🎤 All my talks and workshop presentations are on [SpeakerDeck](https://speakerdeck.com/desmondsanctity)
 
-- 📝 I write technical articles on [Twilio](https://www.twilio.com/en-us/blog/authors/author.dobisi), [Hashnode](https://dexcodes.hashnode.dev/) and [Dev.to](https://dev.to/desmondsanctity)
+- 📝 You can read some of my technical articles [here](https://desmond-obisi.notion.site/Technical-Writing-Portfolio-a759184eb68c485cb6ed946e934a66a2)
 
 - 💬 Ask me about **OSS, Web Engineering, Technical Writing, Developer Experience and Blockchain Technology**
 
@@ -33,8 +33,6 @@
 <a href="https://stackoverflow.com/users/13363702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13363702" height="30" width="40" /></a>
 <a href="https://fb.com/desmond.obisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="desmond.obisi" height="30" width="40" /></a>
 <a href="https://instagram.com/desmond_obisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="desmond_obisi" height="30" width="40" /></a>
-<a href="https://medium.com/@desmondcutest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@desmondcutest" height="30" width="40" /></a>
-<a href="/https://dexcodes.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dexcodes.hashnode.dev/rss.xml" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=desmondsanctity&show_icons=true&theme=dracula&locale=en&layout=compact" alt="desmondsanctity" /></p>
