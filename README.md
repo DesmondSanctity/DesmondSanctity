@@ -7,23 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/0X_anon_" target="blank"><img src="https://img.shields.io/twitter/follow/0X_anon_?logo=twitter&style=for-the-badge" alt="0X_anon_" /></a> </p>
 
-- 🌱 I’m currently learning **AI/ML Engineering, Rust, Golang, and Cloud Native Technologies**
+- 🌱 I’m currently learning **AI/ML Engineering, Rust, Golang, and Cloud Native Technologies.**
 
-- ➿ I contribute to open-source projects at CHAOSS, Flanksource, and Ansible
+- ➿ I contribute to open-source projects at CHAOSS, Flanksource, and Ansible.
   
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/DesmondSanctity)
+- 👨‍💻 All of my projects are available at [GitHub.](https://github.com/DesmondSanctity)
 
-- 🎤 All my talks and workshop presentations are on [SpeakerDeck](https://speakerdeck.com/desmondsanctity)
+- 🎤 All my talks and workshop presentations are on [SpeakerDeck.](https://speakerdeck.com/desmondsanctity)
 
-- 📝 You can read some of my technical articles [here](https://desmond-obisi.notion.site/Technical-Writing-Portfolio-a759184eb68c485cb6ed946e934a66a2)
+- 📝 You can read some of my technical articles [here.](https://desmond-obisi.notion.site/Technical-Writing-Portfolio-a759184eb68c485cb6ed946e934a66a2)
 
-- 💬 Ask me about **OSS, Web Engineering, Technical Writing, Developer Experience and Blockchain Technology**
+- 💬 Ask me about **OSS, Web Engineering, Technical Writing, Developer Experience and Blockchain Technology**.
 
 - 📫 How to reach me **desmond.obisi.g20@gmail.com**
 
 - 📄 Learn about my work experiences [LinkedIn](https://linkedin.com/in/desmond-obisi-253ab7161)
 
-- ⚡ Fun fact **I spend more time with my computer than anything else**
+- ⚡ Fun fact **I spend more time with my computer than anything else**.
 
 
 <h3 align="left">Connect with me:</h3>
