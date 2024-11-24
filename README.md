@@ -44,6 +44,7 @@
 
 ### Technical Articles
 <!-- BLOG-POST-LIST:START -->
+- [Athene AI - Voice Journaling Assistant &lpar;LeMUR Prompt&rpar;](https://dev.to/desmondsanctity/athene-ai-voice-journaling-assistant-jml)
 - [Fullstack Serverless Starter with Hono.js, Cloudflare Workers, and Neon Postgres](https://dev.to/desmondsanctity/fullstack-serverless-starter-with-honojs-cloudflare-workers-and-neon-postgres-2pgj)
 - [AI-powered market analysis for currency pairs with Hono.js, Cloudflare Workers and Twilio](https://dev.to/desmondsanctity/ai-powered-market-analysis-for-currency-pairs-with-honojs-cloudflare-workers-and-twilio-5edo)
 - [Faster Postgres Queries with Cloudflare Hyperdrive and Neon](https://dev.to/hackmamba/faster-postgres-queries-with-cloudflare-hyperdrive-and-neon-4200)
@@ -53,5 +54,4 @@
 - [Account Abstraction in Ethereum Blockchain](https://dev.to/desmondsanctity/account-abstraction-in-web3-mce)
 - [Setting Up Yourself for Success in DevRel ~ A Beginners Guide](https://dev.to/desmondsanctity/setting-up-yourself-for-success-in-devrel-a-beginners-guide-2n5e)
 - [Build a Jamstack Blog with Xata and Cloudinary](https://dev.to/hackmamba/build-a-jamstack-blog-with-xata-and-cloudinary-655)
-- [Web 3.0 - The Stack &lpar;L0/L1 Networks&rpar;](https://dev.to/desmondsanctity/web-30-the-stack-l0l1-newtworks-2069)
 <!-- BLOG-POST-LIST:END -->
