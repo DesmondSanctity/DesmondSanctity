@@ -44,7 +44,7 @@
 
 ### Technical Articles
 <!-- BLOG-POST-LIST:START -->
-- [Athene AI - Voice Journaling Assistant &lpar;LeMUR Prompt&rpar;](https://dev.to/desmondsanctity/athene-ai-voice-journaling-assistant-jml)
+- [Athene AI - Voice Journaling Assistant](https://dev.to/desmondsanctity/athene-ai-voice-journaling-assistant-jml)
 - [Fullstack Serverless Starter with Hono.js, Cloudflare Workers, and Neon Postgres](https://dev.to/desmondsanctity/fullstack-serverless-starter-with-honojs-cloudflare-workers-and-neon-postgres-2pgj)
 - [AI-powered market analysis for currency pairs with Hono.js, Cloudflare Workers and Twilio](https://dev.to/desmondsanctity/ai-powered-market-analysis-for-currency-pairs-with-honojs-cloudflare-workers-and-twilio-5edo)
 - [Faster Postgres Queries with Cloudflare Hyperdrive and Neon](https://dev.to/hackmamba/faster-postgres-queries-with-cloudflare-hyperdrive-and-neon-4200)
