@@ -44,6 +44,7 @@
 
 ### Technical Articles
 <!-- BLOG-POST-LIST:START -->
+- [Copilot vs. Cody: All you need to know](https://dev.to/hackmamba/copilot-vs-cody-all-you-need-to-know-jdi)
 - [Athene AI - Voice Journaling Assistant](https://dev.to/desmondsanctity/athene-ai-voice-journaling-assistant-jml)
 - [Fullstack Serverless Starter with Hono.js, Cloudflare Workers, and Neon Postgres](https://dev.to/desmondsanctity/fullstack-serverless-starter-with-honojs-cloudflare-workers-and-neon-postgres-2pgj)
 - [AI-powered market analysis for currency pairs with Hono.js, Cloudflare Workers and Twilio](https://dev.to/desmondsanctity/ai-powered-market-analysis-for-currency-pairs-with-honojs-cloudflare-workers-and-twilio-5edo)
@@ -53,5 +54,4 @@
 - [Documenting Node.js API using Swagger](https://dev.to/desmondsanctity/documenting-nodejs-api-using-swagger-4klp)
 - [Account Abstraction in Ethereum Blockchain](https://dev.to/desmondsanctity/account-abstraction-in-web3-mce)
 - [Setting Up Yourself for Success in DevRel ~ A Beginners Guide](https://dev.to/desmondsanctity/setting-up-yourself-for-success-in-devrel-a-beginners-guide-2n5e)
-- [Build a Jamstack Blog with Xata and Cloudinary](https://dev.to/hackmamba/build-a-jamstack-blog-with-xata-and-cloudinary-655)
 <!-- BLOG-POST-LIST:END -->
