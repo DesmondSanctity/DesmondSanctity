@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Desmond here 👋</h1>
+<h1 align="center">Hello, Desmond Obisi here 👋</h1>
 <h5 align="center">I am a software engineer with over five years of experience building impactful web products. As an open-source contributor and technical writer, I create seamless user experiences, optimize performance, and ensure interoperability across systems. My interests span across Blockchain, AI/ML, and Cloud Native technologies, and I am actively engaged in community building through speaking and technical advocacy.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desmondsanctity&label=Profile%20views&color=0e75b6&style=plastic" alt="desmondsanctity" /> </p>
