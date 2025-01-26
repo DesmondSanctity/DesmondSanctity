@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **desmond.obisi.g20@gmail.com**
 
-- 📄 Learn about my work experiences [LinkedIn](https://linkedin.com/in/desmond-obisi-253ab7161)
+- 📄 Learn about my experiences on [LinkedIn](https://linkedin.com/in/desmond-obisi-253ab7161)
 
 - ⚡ Fun fact **I spend more time with my computer than anything else**.
 
