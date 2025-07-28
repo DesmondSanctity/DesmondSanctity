@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI/ML Engineering, Rust, Golang, and Cloud Native Technologies.**
 
-- ➿ I contribute to open-source projects at CHAOSS and Ansible.
+- ➿ I contribute to open-source projects at Polytope Labs, CHAOSS and Ansible.
   
 - 👨‍💻 All of my projects are available at [GitHub.](https://github.com/DesmondSanctity)
 
