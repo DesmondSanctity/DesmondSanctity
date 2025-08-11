@@ -44,14 +44,14 @@
 
 ### Technical Articles
 <!-- BLOG-POST-LIST:START -->
+- [Cron but with AI insights, telemetry data in one command directly from your codebase.](https://dev.to/desmondsanctity/cron-but-with-ai-insights-telemetry-data-in-one-command-directly-from-your-codebase-2cj1)
+- [Cron but with AI insights, telemetry data in one command directly from your codebase...](https://dev.to/desmondsanctity/cron-but-with-ai-insights-telemetry-data-in-one-command-directly-from-your-codebase-4dbl)
+- [Cron but with AI insights, telemetry data in one command directly from your codebase](https://dev.to/desmondsanctity/cron-but-with-ai-insights-telemetry-data-in-one-command-directly-from-your-codebase-4f54)
+- [Chronos Synapse — BYOK Telemetry + AI Insights SDK For Cron Using Redis](https://dev.to/desmondsanctity/chronos-synapse-byok-telemetry-ai-insights-sdk-for-cron-using-redis-47l5)
+- [Chronos Synapse — BYOK Telemetry + AI Insights SDK For Cron Using Redis](https://dev.to/desmondsanctity/chronos-synapse-byok-telemetry-ai-insights-sdk-for-cron-using-redis-4d90)
 - [Copilot vs. Cody: All you need to know](https://dev.to/hackmamba/copilot-vs-cody-all-you-need-to-know-jdi)
 - [Athene AI - Voice Journaling Assistant](https://dev.to/desmondsanctity/athene-ai-voice-journaling-assistant-jml)
 - [Fullstack Serverless Starter with Hono.js, Cloudflare Workers, and Neon Postgres](https://dev.to/desmondsanctity/fullstack-serverless-starter-with-honojs-cloudflare-workers-and-neon-postgres-2pgj)
 - [AI-powered market analysis for currency pairs with Hono.js, Cloudflare Workers and Twilio](https://dev.to/desmondsanctity/ai-powered-market-analysis-for-currency-pairs-with-honojs-cloudflare-workers-and-twilio-5edo)
 - [Faster Postgres Queries with Cloudflare Hyperdrive and Neon](https://dev.to/hackmamba/faster-postgres-queries-with-cloudflare-hyperdrive-and-neon-4200)
-- [Implement OTP Verification using Redis and Node.js](https://dev.to/desmondsanctity/implement-otp-verification-using-redis-and-nodejs-572c)
-- [Setting up Node.js Email Server with Nodemailer and Mailtrap](https://dev.to/desmondsanctity/setting-up-nodejs-email-server-with-nodemailer-and-mailtrap-404)
-- [Documenting Node.js API using Swagger](https://dev.to/desmondsanctity/documenting-nodejs-api-using-swagger-4klp)
-- [Account Abstraction in Ethereum Blockchain](https://dev.to/desmondsanctity/account-abstraction-in-web3-mce)
-- [Setting Up Yourself for Success in DevRel ~ A Beginners Guide](https://dev.to/desmondsanctity/setting-up-yourself-for-success-in-devrel-a-beginners-guide-2n5e)
 <!-- BLOG-POST-LIST:END -->
