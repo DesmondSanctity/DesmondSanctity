@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desmondsanctity&label=Profile%20views&color=0e75b6&style=plastic" alt="desmondsanctity" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=desmondsanctity" alt="desmondsanctity" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/0X_anon_" target="blank"><img src="https://img.shields.io/twitter/follow/0X_anon_?logo=twitter&style=for-the-badge" alt="0X_anon_" /></a> </p>
 
 - 🌱 I’m currently learning **AI/ML Engineering, Rust, Golang, and Cloud Native Technologies.**
@@ -34,10 +32,6 @@
 <a href="https://fb.com/desmond.obisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="desmond.obisi" height="30" width="40" /></a>
 <a href="https://instagram.com/desmond_obisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="desmond_obisi" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=desmondsanctity&show_icons=true&theme=dracula&locale=en&layout=compact" alt="desmondsanctity" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=desmondsanctity&show_icons=true&theme=dracula&locale=en" alt="desmondsanctity" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=desmondsanctity&theme=dark" alt="desmondsanctity" /></p>
 
