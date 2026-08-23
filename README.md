@@ -33,7 +33,7 @@
 <a href="https://instagram.com/desmond_obisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="desmond_obisi" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=desmondsanctity&theme=dark" alt="desmondsanctity" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=desmondsanctity&theme=dark" alt="GitHub Streak" /></a>
 
 
 ### Technical Articles
