@@ -39,12 +39,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Testing Risky Postgres Migrations Safely with Volume Cloning on Unikraft Cloud](https://dev.to/desmondsanctity/testing-risky-postgres-migrations-safely-with-volume-cloning-on-unikraft-cloud-398j)
 - [Building &amp; Deploying a Go MCP Server on Unikraft](https://dev.to/desmondsanctity/building-deploying-a-go-mcp-server-on-unikraft-306a)
-- [Cron but with AI insights, telemetry data in one command directly from your codebase.](https://dev.to/desmondsanctity/cron-but-with-ai-insights-telemetry-data-in-one-command-directly-from-your-codebase-2cj1)
-- [Chronos Synapse — BYOK Telemetry + AI Insights SDK For Cron Using Redis](https://dev.to/desmondsanctity/chronos-synapse-byok-telemetry-ai-insights-sdk-for-cron-using-redis-47l5)
 - [Copilot vs. Cody: All you need to know](https://dev.to/hackmamba/copilot-vs-cody-all-you-need-to-know-jdi)
-- [Athene AI - Voice Journaling Assistant](https://dev.to/desmondsanctity/athene-ai-voice-journaling-assistant-jml)
-- [Fullstack Serverless Starter with Hono.js, Cloudflare Workers, and Neon Postgres](https://dev.to/desmondsanctity/fullstack-serverless-starter-with-honojs-cloudflare-workers-and-neon-postgres-2pgj)
-- [AI-powered market analysis for currency pairs with Hono.js, Cloudflare Workers and Twilio](https://dev.to/desmondsanctity/ai-powered-market-analysis-for-currency-pairs-with-honojs-cloudflare-workers-and-twilio-5edo)
 - [Faster Postgres Queries with Cloudflare Hyperdrive and Neon](https://dev.to/hackmamba/faster-postgres-queries-with-cloudflare-hyperdrive-and-neon-4200)
 - [Implement OTP Verification using Redis and Node.js](https://dev.to/desmondsanctity/implement-otp-verification-using-redis-and-nodejs-572c)
 <!-- BLOG-POST-LIST:END -->
